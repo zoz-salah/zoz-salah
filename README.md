@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zoz</h1>
 <h3 align="center">A passionate cs student from EGYPT</h3>
 
-- 🔭 I’m currently learning **Data structure**
+- 🔭 I’m currently learning **AI AND MACHINE LEARNING**
 
 - 📫 How to reach me **zoz.salah2222@gmail.com**
 
