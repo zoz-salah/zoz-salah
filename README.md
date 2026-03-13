@@ -9,14 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/zoz salah](https://www.linkedin.com/in/zoz-salah-111207z/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoz salah" height="30" width="40" /></a>
-<a href="https://instagram.com/zoz._.salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zoz._.salah" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zoz edit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zoz edit" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/zoz salah](https://www.linkedin.com/in/zoz-salah-111207z/)]([https://www.linkedin.com/in/zoz-salah-111207z/](https://www.linkedin.com/in/zoz-salah-111207z/))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoz salah" height="30" width="40" /></a>
+<a href="[https://instagram.com/zoz._.salah](https://www.instagram.com/zoz._.salah/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zoz._.salah" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/zoz edit](https://www.youtube.com/@zozedit1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zoz edit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 
 
 
@@ -52,23 +51,11 @@
   <img width="12" />
   
 </div>
-
-
   <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" />
-
-  <br><br>
-  
-   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> 
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
-  </picture>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp; <!-- lang -->
+  <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" /> <!-- streak -->
+  <br><br>  
+   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> <!-- snake -->
 
 </div>
 
