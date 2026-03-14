@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm ZOZ</h1>
-<h3 align="center">A passionate CS student from EGYPT</h3></h1>
+<h3 align="center">A passionate 2nd year CS student from EGYPT</h3></h1>
 
 
 - 🔭 I’m currently learning the field of **AI AND MACHINE LEARNING**
@@ -60,8 +60,7 @@
   
 </div>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp; <!-- lang -->
-  <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" /> <!-- streak -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp; <!-- lang --> <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" /> <!-- streak -->
   <br><br>  
    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> <!-- snake -->
 
