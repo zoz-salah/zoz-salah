@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm ZOZ</h1>
-<h3 align="center">A passionate 2nd year CS student from EGYPT</h3></h1>
+<h3 align="center">A passionate 2nd year CS student</h3></h1>
 
 
 - 🔭 I’m currently learning the field of **AI AND MACHINE LEARNING**
