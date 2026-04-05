@@ -65,3 +65,7 @@
 
 </div>
 
+
+<!-- <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.&fontSize=20&fontColor=E8D5A3&animation=fadeIn&fontAlignY=45&desc=—%20%&descAlignY=68&descSize=12&descColor=8A9BAE"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div> -->
