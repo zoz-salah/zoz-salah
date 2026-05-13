@@ -62,8 +62,11 @@
   
 </div>
   <br><br>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp; <!-- langg --> <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" /> <!-- streak -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp; <!-- langg -->
+  <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" /> <!-- streak -->
   <br><br>  
+   <!-- <img src="https://streak-stats.demolab.com?user=zoz-salah&theme=darkheight="125" />
+     <br><br>   -->
    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> <!-- snake -->
 
 </div>
