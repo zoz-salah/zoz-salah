@@ -61,11 +61,11 @@
   <img width="12" />
   
 </div>
-  <br><br>
+    <br><br>
   <p align="center">
-<img src="https://streak-stats.demolab.com?user=zoz-salah&theme=radical&exclude_days=Mon"/>
-</p>
-  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zoz-salah&theme=radical&exclude_days=Mon" alt="GitHub Streak" /></a> -->
+  <img src="https://streak-stats.demolab.com?user=zoz-salah&theme=radical&exclude_days=Mon"/>
+    </p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zoz-salah&theme=radical&exclude_days=Mon" alt="GitHub Streak" /></a>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp; <!-- langg -->
   <!-- <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" /> <!-- streak --> 
   <br><br>  
