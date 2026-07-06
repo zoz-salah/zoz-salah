@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zoz.salah2222@gmail.com**
 
-- 🔗 **Check out MY PROTFOLIO website here:**
+- 🔗 **Check out MY PROTFOLIO website here: **
 👉 [CLICK HERE](https://zoz-salah.github.io/My-personal-portfolio-website/)
 
 
