@@ -66,7 +66,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zoz-salah&theme=radical&exclude_days=Sun" alt="GitHub Streak" /></a>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoz-salah&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp; <!-- langg -->
   <!-- <img src="https://streak-stats.demolab.com/?user=zoz-salah&theme=highcontrast" height="125" /> <!-- streak --> 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zoz-salah&theme=radical&exclude_days=Sun)](https://git.io/streak-stats)
 
   <br><br>  
    <!-- <img src="https://streak-stats.demolab.com?user=zoz-salah&theme=darkheight="125" />
